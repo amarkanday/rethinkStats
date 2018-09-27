@@ -1,0 +1,2 @@
+# rethinkStats
+Statistical rethinking 
